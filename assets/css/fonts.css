@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-SemiBold.woff2') format('woff2'),
+        url('../fonts/Soleil-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/Soleil-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-LightItalic.woff2') format('woff2'),
+        url('../fonts/Soleil-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('Soleil.woff2') format('woff2'),
+        url('Soleil.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-Bold.woff2') format('woff2'),
+        url('../fonts/Soleil-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-Book.woff2') format('woff2'),
+        url('../fonts/Soleil-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/Soleil-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-Italic.woff2') format('woff2'),
+        url('../fonts/Soleil-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Soleil-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-Light.woff2') format('woff2'),
+        url('../fonts/Soleil-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Soleil-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Soleil';
+    src: url('../fonts/Soleil-BookItalic.woff2') format('woff2'),
+        url('../fonts/Soleil-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
